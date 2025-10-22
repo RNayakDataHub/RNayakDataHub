@@ -1,8 +1,7 @@
 <!-- 🎬 Rakesh Nayak | Netflix-Themed GitHub Profile -->
-
+<img src="./rakeshflix_banner.png" width="100%"/>
 <!-- Banner -->
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg" width="180"/>
   <h1 style="color:#E50914;">RakeshFlix</h1>
   <h3>“One skill I learned from my EX is how to Manipulate, so I chose Data.” 🍿</h3>
 </div>
