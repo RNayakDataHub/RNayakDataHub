@@ -1,16 +1,68 @@
-## Hi there 👋
+<!-- 🎬 Rakesh Nayak | Netflix-Themed GitHub Profile -->
 
-<!--
-**RNayakDataHub/RNayakDataHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Banner -->
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg" width="180"/>
+  <h1 style="color:#E50914;">RakeshFlix</h1>
+  <h3>“One skill I learned from my EX is how to Manipulate, so I chose Data.” 🍿</h3>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎞️ **Now Streaming: Top Data Projects**
+| Poster | Title | Description |
+|:--:|:--|:--|
+| 📦 | [**Mondelez Sales and Inventory Analysis**](https://github.com/RNayakDataHub/Mondelez-Sales-and-Inventory-Analysis) | SQL + Power BI analysis for improving inventory forecasting and sales insights. |
+| 🛒 | [**Amazon Sales Analysis**](https://github.com/RNayakDataHub/Amazon_Sales) | Deep dive into sales data trends and customer behavior using Python (Pandas, Matplotlib, Seaborn). |
+| 🧾 | [**Infonative Task – Reporting Effort Data**](https://github.com/RNayakDataHub/Infonative-Task-for-reporting-Effort-Data-) | Power BI dashboard creation and automation for business reporting efficiency. |
+| 🚢 | [**Titanic Quick EDA**](https://github.com/RNayakDataHub/TitanicQuickEDA) | Exploratory data analysis on Titanic dataset — survival patterns and key insights. |
+| 🧬 | [**Taxonomy Task – Axion Ray**](https://github.com/RNayakDataHub/Taxonomy-task-by-Axion-Ray) | Text data classification and cleaning using structured taxonomy sheets. |
+
+---
+
+### 🍿 **Currently Watching (Learning & Building)**
+- 🧠 Machine Learning & AI Fundamentals  
+- 🧩 Deep Learning (coming soon)  
+- 💾 Live Database Projects  
+- 🪄 Automating Dashboards with Power BI  
+
+---
+
+### ❤️ **Favorite Genres (Skills & Tools)**
+`SQL` | `Python` | `Power BI` | `Tableau` | `Advanced Excel` | `Machine Learning` | `Data Cleaning` | `EDA` | `Visualization`
+
+---
+
+### 🔥 **Top Rated Data Skills**
+![SQL](https://img.shields.io/badge/SQL-E50914?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-141414?style=for-the-badge&logo=python&logoColor=E50914)
+![Power BI](https://img.shields.io/badge/Power%20BI-E50914?style=for-the-badge&logo=powerbi&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-141414?style=for-the-badge&logo=tableau&logoColor=E50914)
+![Excel](https://img.shields.io/badge/Excel-E50914?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-141414?style=for-the-badge&logo=scikitlearn&logoColor=E50914)
+
+---
+
+### 🎬 **Behind The Scenes**
+👋 Hi, I’m **Rakesh Nayak**, a passionate **Data Analyst** who loves turning messy data into clean, actionable stories.  
+I specialize in **data analysis, visualization, and automation**, using tools like SQL, Python, Power BI, and ML.
+
+> *Every dataset has a story — I just direct the scene.*
+
+---
+
+### 📈 **RakeshFlix Stats**
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RNayakDataHub&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RNayakDataHub&layout=compact&theme=radical)
+
+</div>
+
+---
+
+<div align="center">
+  <i>🎧 “Sit back, grab your popcorn, and let the data unfold.”</i>  
+  <br><br>
+  <img src="https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif" width="400"/>
+</div>
