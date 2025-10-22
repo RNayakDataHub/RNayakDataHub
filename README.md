@@ -3,7 +3,7 @@
 <!-- Banner -->
 <div align="center">
   <h1 style="color:#E50914;">RakeshFlix</h1>
-  <h3>“One skill I learned from my EX is how to Manipulate, so I chose Data.” 🍿</h3>
+  <h3>“Simple difference between Me and My EX, One can manipulate people well and the other can do the same with Data. Well I am that other one if you are still confused.” 🍿</h3>
 </div>
 
 ---
